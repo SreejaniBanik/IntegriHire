@@ -1,0 +1,32 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  width: 80%;
+  max-width: 700px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.result-box {
+  background: #f0f0f0;
+  color: #222;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
